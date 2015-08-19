@@ -5,3 +5,10 @@ div.top{
 	text-align: center;
 	color:white;
 }
+div.feat{
+	background-image: url("feature.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	color:white;
+}
